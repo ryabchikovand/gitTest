@@ -1,0 +1,4 @@
+Start of second file
+
+Rename it to 2.txt
+line 3
