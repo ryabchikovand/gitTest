@@ -1,2 +1,3 @@
 line 1
 master text
+new func1 text
