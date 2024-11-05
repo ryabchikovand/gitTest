@@ -1,2 +1,3 @@
 line 1
 new func1 text
+new func1 text2
